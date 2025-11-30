@@ -76,7 +76,3 @@ Click the "Find & Compile Questions" button to start the research process. The "
 ## Contributing
 
 Feel free to fork the repository, suggest improvements, or open issues.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE.md). (You might need to create a LICENSE.md file if you haven't already).
